@@ -44,7 +44,6 @@ shdhrubo is a ✨ special ✨ repository because its `README.md` (this file) app
 You can click the Preview link to take a look at your changes.
 --->
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=shdhrubo&theme=gotham&hide_border=true&area=true)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
