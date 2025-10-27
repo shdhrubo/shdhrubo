@@ -15,8 +15,8 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 Software Engineer
-- 💻 Passionate about **Angular,React,Next,DotNet,MERN**   
+- 🎓 Software Engineer  
+- 💻 Passionate about **Angular, React, Next.js, .NET, MERN**  
 - 📈 Focused on **writing clean, scalable, and maintainable code**
 
 ---
@@ -32,6 +32,7 @@
 <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" width="40">
 <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="40">
 <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40">
+<img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40">
 
 #### ⚙️ Backend
 <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40">
@@ -40,6 +41,7 @@
 
 #### 🗄️ Database
 <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40">
+<img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40">
 
 </div>
 
