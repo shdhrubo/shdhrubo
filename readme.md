@@ -15,10 +15,8 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 Software Engineering Student  
-- 💻 Passionate about **.NET, Angular, Node.js, and AI-based applications**  
-- 🌍 Based in **Bangladesh**  
-- ⚡ Currently exploring **AI + Web Integration**  
+- 🎓 Software Engineer
+- 💻 Passionate about **Angular,React,Next,DotNet,MERN**   
 - 📈 Focused on **writing clean, scalable, and maintainable code**
 
 ---
