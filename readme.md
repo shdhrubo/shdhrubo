@@ -66,25 +66,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shdhrubo&show_icons=true&theme=tokyonight&hide_border=true">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shdhrubo&theme=tokyonight&hide_border=true">
-</div>
-
----
-
-### 🐍 Contribution Graph
-<div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
-</div>
-
----
-
-### 👀 Visitor Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shdhrubo/count.svg" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
